@@ -125,4 +125,4 @@ This project demonstrates:
 
 **Jia-Jen Lee**  
 Associate Product Manager – Hardware Supply Chain & Operations  
-[🔗 LinkedIn]([https://www.linkedin.com/in/jiajenlee/](https://www.linkedin.com/in/jia-jen-lee/))
+[🔗 LinkedIn](https://www.linkedin.com/in/jia-jen-lee/)
