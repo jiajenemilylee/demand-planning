@@ -8,6 +8,9 @@ This project simulates the role of a **Supply Planner** at a global tech company
 **Data source:** [Kaggle - Product Demand Forecasting](https://www.kaggle.com/datasets/felixzhao/productdemandforecasting)  
 **Tools used:** Python, Pandas, Statsmodels, Matplotlib (Google Colab)
 
+**Full explanation and business insights available on Medium:**  
+🔗 [Read the full analysis here](https://medium.com/@jiajenlee/sku-level-demand-forecasting-for-strategic-supply-planning-83f7eeb5f847)
+
 ---
 
 ## 🗂️ Dataset Description
