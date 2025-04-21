@@ -61,7 +61,7 @@ Additive decomposition (12-month cycle) was applied to isolate:
 - **Residual** — captures random fluctuation / noise
 
 Example:  
-![Trend Chart](./forecast_vs_actual.png)
+![Trend Chart](./Product_1359.png)
 
 ---
 
